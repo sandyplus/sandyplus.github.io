@@ -10,6 +10,8 @@ updated: 2017-03-10 23:06:38
 - godaddy：不推荐，whois信息隐藏还要收钱，而且第一年只要七块，但是不能只买一年，至少两年，需要消费120左右，第三年续费要100多一年
 - domiancompare：去这个网站找优惠码
 
+<!-- more -->
+
 ## 设置：
 
 - 在namesilo里面domian forwarding，可以设置域名指向

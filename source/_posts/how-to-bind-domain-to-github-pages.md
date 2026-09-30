@@ -9,6 +9,8 @@ tags:
 
 教程以 `drshi.cn` 绑定 `sandyplus.github.io` 为例，新手可直接参考操作。
 
+<!-- more -->
+
 ## 准备工作
 
 - **已部署的 GitHub Pages 网站**：例如 `sandyplus.github.io`。

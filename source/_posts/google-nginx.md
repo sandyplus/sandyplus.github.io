@@ -13,6 +13,8 @@ updated: 2017-03-13 00:50:59
 先将搬瓦工安装debian 8.0 x64系统（安装shadowsocks的时候推荐用[go版一键安装脚本](https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-go-debian)）
 注意，在修改系统设置之前，最好先把系统备份一下：点击左侧的snapshot（可以免费备份五个，保存一个月）
 
+<!-- more -->
+
 ## 安装nginx（参考[教程](https://zhgcao.github.io/2016/06/09/nginx-reverse-proxy-google/))
 
 安装流程基本参考教程，主要有几点需要注意：
